@@ -27,16 +27,7 @@ form.addEventListener("submit", function(e) {
 
     nome_Cadastro.value ="";
     numero_Cadastro.value = "";
-
 })
-
-/*
-function calculaReg (){
-const registroDeCadastro = document.getElementById("registroCadastros");
-const td = document.createElement("td");
-td.innerHTML = numeros.length;
-registroDeCadastro.append(td) };
-*/
 
 function calculaReg2 () {
     document.getElementById("registroCadastros").
