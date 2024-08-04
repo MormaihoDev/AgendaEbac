@@ -1,5 +1,5 @@
 const form = document.getElementById("form_atividade");
-const imgPositivo = '<img src="image/checkLogo3.png" alt="emogiCheck" />';
+const imgPositivo = '<img src="Image/checkLogo3.png" alt="emogiCheck" />';
 const numeros = [];
 const inicio0 = calculaReg();
 let linhas = " ";
